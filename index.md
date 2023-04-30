@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Wireframe
+title: Home
+my_number: 5
 ---
-<img src="assets/img/camera.jpg" class="camera" alt="Camera">
+<img src="assets/img/camera1.png" class="camera" alt="Camera">
 
-<div class="container" style="background-color:white;">
-Photography is the art of capturing photographic images to later remember as they grow older. The definition of photography is the art or practice of taking and processing photographs. Photography is used in many scenarios such as capturing family photos, identifying a specific person or object,  creating creative art, and many more. Photography is beneficial in many ways as well because it allows for memorable moments to be physically visualized and it also allows people to document specific people or events.
+<div class="container text-center bg4" id="about">
+<h5>Photography is the art of capturing photographic images to later remember as they grow older. The definition of photography is the art or practice of taking and processing photographs. Photography is used in many scenarios such as capturing family photos, identifying a specific person or object,  creating creative art, and many more. Photography is beneficial in many ways as well because it allows for memorable moments to be physically visualized and it also allows people to document specific people or events.</h5>
 </div>
 
 <div class="container">

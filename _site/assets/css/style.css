@@ -33,10 +33,6 @@ a {
   .bg2{
     background-color: #C2AFF0;
   }
-
-  .bg4{
-    background-color: blue;
-  }
   .bg3{
   float: center;
   background-color: grey;
@@ -49,7 +45,19 @@ a {
 }
 .card{
   margin: 10px;
+  height: 450px;
+  width: 300px;
+  border-style: solid;
 }
+.bg4{
+background-color: white;
+padding: 35px;
+margin-bottom: 35px;
+margin-top: 35px;
+border-style: solid;
+}
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body{
@@ -60,10 +68,6 @@ body{
 	margin:0;
 	padding:0;
 	box-sizing: border-box;
-}
-.container{
-	max-width: 1170px;
-	margin:auto;
 }
 .row{
 	display: flex;
