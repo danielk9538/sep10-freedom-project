@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: CSS-Writeup
+  link: /css-writeup.html
+- name: wireframe
+  link: /wireframe.html

@@ -1,0 +1,6 @@
+<nav class="navbar" style="background-color: #373737">
+  <ul class="nav nav-underline">
+    <a class="nav-link" {% for item in site.data.navigation %}
+    <a class="nav-link" style="color: white" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+  {% endfor %}</a>
+  </nav>
