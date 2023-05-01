@@ -5,6 +5,8 @@ my_number: 5
 ---
 <img src="assets/img/camera1.png" class="camera" alt="Camera">
 
+<h1 class="text-center">PHOTOGRAPHY</h1>
+
 <div class="container text-center bg4" id="about">
 <h5>Photography is the art of capturing photographic images to later remember as they grow older. The definition of photography is the art or practice of taking and processing photographs. Photography is used in many scenarios such as capturing family photos, identifying a specific person or object,  creating creative art, and many more. Photography is beneficial in many ways as well because it allows for memorable moments to be physically visualized and it also allows people to document specific people or events.</h5>
 </div>
@@ -65,6 +67,12 @@ my_number: 5
         </div>
       </div>
     </div>
+  <div class="container bg4" id="idea">
+  <img src="assets/img/machine.jpg" class="machine" alt="machine">
+    <div class="text-center center bg6">
+    <h5>An idea that i've thought about over a few days is a program that would allow you to adjust or correct the quality of an older photo. This would mean giving black and white photos color or filling in blurry areas in a blurry picture. This would allow people to treasure photos for longer periods of time without having to risk losing important memories or moments.</h5>
+  </div>
+</div>
 
   </div>
 </div>

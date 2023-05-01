@@ -23,6 +23,7 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top:auto;
     width: 50%;
   }
   .bg1{
@@ -56,7 +57,16 @@ margin-bottom: 35px;
 margin-top: 35px;
 border-style: solid;
 }
-
+.machine{
+  max-height: 18rem;
+  width: auto;
+  float: left;
+  margin: 10px;
+}
+.bg6{
+  padding-top: 70px;
+  padding-left: 90px;
+}
 
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
