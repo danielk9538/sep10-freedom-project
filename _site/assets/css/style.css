@@ -5,7 +5,6 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    height: 150px;
 }
 
 p {
@@ -26,13 +25,8 @@ a {
     margin-top:auto;
     width: 50%;
   }
-  .bg1{
-    background-color: #99EDC3;
-    border-width: 2px;
-    border-style: solid;
-  }
   .bg2{
-    background-color: #C2AFF0;
+    background-color: #E5C4BB;
   }
   .bg3{
   float: center;
@@ -40,13 +34,9 @@ a {
   border: 1px solid black;
   width: 10px;
 }
-.camera{
-  max-height: auto;
-  width: 100%;
-}
 .card{
   margin: 10px;
-  height: 450px;
+  height: 600px;
   width: 300px;
   border-style: solid;
 }
@@ -58,22 +48,13 @@ margin-top: 35px;
 border-style: solid;
 }
 .machine{
-  max-height: 18rem;
-  width: auto;
-  float: left;
-  margin: 10px;
+ width: 1000px;
 }
 .bg6{
   padding-top: 70px;
   padding-left: 90px;
 }
 
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-body{
-	line-height: 1.5;
-	font-family: 'Poppins', sans-serif;
-}
 *{
 	margin:0;
 	padding:0;
@@ -146,4 +127,47 @@ ul{
   .footer-col{
     width: 100%;
 }
+}
+
+
+/* Container holding the image and the text */
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.img-fluid{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 100px;
+  font-family: Roboto, sans-serif;
+}
+/* Centered text */
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Roboto, sans-serif;
+}
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+padding: 35px;
+margin-bottom: 35px;
+margin-top: 35px;
+border-style: solid;
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+.navbar{
+padding-left:20px;
 }
