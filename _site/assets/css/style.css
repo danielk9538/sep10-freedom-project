@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    min-height: 100vh;
 }
 
 body {
@@ -67,9 +68,11 @@ border-style: solid;
 ul{
 	list-style: none;
 }
+/*footer start*/
 .footer{
 	background-color: #24262b;
     padding: 70px 0;
+    bottom: 0;
 }
 .footer-col{
    width: 33%;
@@ -111,11 +114,6 @@ ul{
 	padding-left: 8px;
 }
 
-.footer-col .social-links a:hover{
-	color: #24262b;
-	background-color: #ffffff;
-}
-
 /*responsive*/
 @media(max-width: 767px){
   .footer-col{
@@ -128,17 +126,18 @@ ul{
     width: 100%;
 }
 }
+/*footer end*/
 
+/*header start*/
 
 /* Container holding the image and the text */
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
 
 .img-fluid{
   position: relative;
   text-align: center;
   color: white;
   font-size: 100px;
-  font-family: Roboto, sans-serif;
 }
 /* Centered text */
 .centered{
@@ -146,8 +145,13 @@ ul{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
+.highlighted {
+  background-color: rgba(0,0,0,.5);
+}
+/*header end*/
+
 .container1 {
   display: flex;
   align-items: center;
