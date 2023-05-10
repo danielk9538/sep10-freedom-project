@@ -1,8 +1,8 @@
 - name: Home
   link: /sep10-freedom-project/#
 - name: About
-  link: #about
+  link: /sep10-freedom-project/#about
 - name: Idea
-  link: ##idea
+  link: /sep10-freedom-project/#idea
 - name: Learn More
   link: https://en.wikipedia.org/wiki/Photography
