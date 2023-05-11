@@ -137,7 +137,7 @@ ul{
   position: relative;
   text-align: center;
   color: white;
-  font-size: 100px;
+  font-size: 100vh;
 }
 /* Centered text */
 .centered{
