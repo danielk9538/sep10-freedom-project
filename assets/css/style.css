@@ -137,12 +137,6 @@ ul{
   position: relative;
   text-align: center;
   color: white;
-  font-size: 10vh;
-}
-@media screen and (max-width: 600px) {
-  h1{
-    font-size: 30px;
-  }
 }
 /* Centered text */
 .centered{
