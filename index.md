@@ -5,7 +5,7 @@ my_number: 5
 ---
 <div class="img-fluid">
   <img src="assets/img/camera1.png" alt="Camera">
-  <div class="centered highlighted" style="font-size: 10vh;">Photography
+  <div class="centered highlighted" style="font-size: 10vw">Photography
 </div>
 </div>
 <div class="container text-center bg4" id="about">
