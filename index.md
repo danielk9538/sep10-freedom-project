@@ -22,7 +22,7 @@ my_number: 5
   <div class="row align-items-start">
     <div class="col-lg-4 col-md-6 col-sm-12">
       <div class="card" style="width: 20rem;">
-        <img src="assets/img/camera.jpg" alt="Camera" class="card-img-top" style="max-height: 18rem;">
+        <img src="assets/img/camera1.png" alt="Camera" class="card-img-top" style="max-height: 18rem;">
         <div class="card-body">
         <h5 class="card-title">CAMERA</h5>
           <p class="card-text"> A camera is an optical instrument that can capture an image.A camera is an optical instrument that can capture an image.</p><br>
@@ -38,7 +38,7 @@ my_number: 5
         <h5 class="card-title">MEMORY CARD</h5>
           <p class="card-text"> A memory card is an electronic data storage device used for storing digital information, typically using flash memory. These are commonly used in digital portable electronic devices. They allow adding memory to such devices using a card in a socket instead of protruding USB flash drives. </p>
           <h5>HOW DOES IT WORK</h5>
-          <p>A camera lens takes all the light rays bouncing around and uses glass to redirect them to a single point, creating a sharp image.</p>
+          <p>Memory cards stores data on electronic components called NAND chips,the term NAND is short for "NOT AND," a boolean operator and logic gate.</p>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@ my_number: 5
         <h5 class="card-title">FLASH</h5>
           <p class="card-text"> For taking pictures in a dark environment or to shape the shine on your object</p>
           <h5>HOW DOES IT WORK</h5>
-          <p>A camera lens takes all the light rays bouncing around and uses glass to redirect them to a single point, creating a sharp image.</p>
+          <p>Emits an area with light for a microsecond to allow photographers to eliminate or create deeper shadows.</p>
         </div>
 
   </div>
@@ -72,7 +72,7 @@ my_number: 5
         <h5 class="card-title">ADOBE PHOTOSHOP</h5>
           <p class="card-text"> Photoshop is where editors crop photos, adjust photo composition, correct lighting, and make any subject imaginable look its absolute best.</p>
           <h5>HOW DOES IT WORK</h5>
-          <p>A camera lens takes all the light rays bouncing around and uses glass to redirect them to a single point, creating a sharp image.</p>
+          <p>Photoshop uses a layer-based or mathematics systems that allows raster image creation or mathematical calcualations to scale an image including altering with multiple overlays.</p>
         </div>
       </div>
     </div>
@@ -83,7 +83,7 @@ my_number: 5
         <h5 class="card-title">PHOTOSCAPE</h5>
           <p class="card-text"> PhotoScape provides the ability to complete common image adjustments including color adjustment, cutting, resizing, printing and GIF animation.</p>
           <h5>HOW DOES IT WORK</h5>
-          <p>A camera lens takes all the light rays bouncing around and uses glass to redirect them to a single point, creating a sharp image.</p>
+          <p>Photoscape features common photo enhancements including color adjustment, cutting, resizing, printing and GIF animation, insert an image and be creative.</p>
         </div>
       </div>
     </div>
