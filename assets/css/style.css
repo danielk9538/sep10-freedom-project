@@ -36,10 +36,11 @@ a {
   width: 10px;
 }
 .card{
-  margin: 10px;
-  height: 600px;
-  width: 300px;
-  border-style: solid;
+  margin: auto;
+  margin-bottom: 30px;
+  height: 800px;
+  width: 400px;
+  border: solid;
 }
 .bg4{
 background-color: white;
@@ -47,9 +48,6 @@ padding: 35px;
 margin-bottom: 35px;
 margin-top: 35px;
 border-style: solid;
-}
-.machine{
- width: 1000px;
 }
 .bg6{
   padding-top: 70px;
@@ -138,6 +136,23 @@ ul{
   text-align: center;
   color: white;
 }
+@media screen and (min-width: 11vw) {
+  div.example {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 15vw) {
+  div.example {
+    font-size: 30px;
+  }
+}
+.mac{
+  max-height:150px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 10px;
+}
 /* Centered text */
 .centered{
   position: absolute;
@@ -152,25 +167,23 @@ ul{
 /*header end*/
 
 .container1 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  border: solid;
+  padding: 30px;
   background-color: white;
-padding: 35px;
-margin-bottom: 35px;
-margin-top: 35px;
-border-style: solid;
+  margin-bottom: 35px;
 }
-
 img {
   max-width: 100%;
   max-height:100%;
 }
-
 .text {
   font-size: 20px;
   padding-left: 20px;
 }
 .navbar{
 padding-left:20px;
+}
+.padding{
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
