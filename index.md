@@ -15,6 +15,7 @@ my_number: 5
 <img src="assets/img/inventor.jpg" alt="Nicéphore Niépce" class="card-img-top" style="max-width: 18rem; border: 4px solid black;">
 </div>
 <div class="container text-center bg4">
+<h3 class="text-center">Invented</h3>
 <h5>Photography was invented by Frenchman Nicéphore Niépce in 1822. Niépce developed a technique called heliography, which he used to create the world's oldest surviving photograph, View from the Window at Le Gras (1827). Heliography was conceived in response to camera obscura theories dating back to ancient history.</h5>
 </div>
 
@@ -93,6 +94,7 @@ my_number: 5
       <div class="col-sm-12">
   <img src="assets/img/machine.jpg" class="mac" style="float: right;" alt="machine">
       <div class="text text-center padding col-sm-12">
+      <h3 class="text-center">Future Developments?</h3>
     <h5>An idea that i've thought about over a few days is a program that would allow you to adjust or correct the quality of an older photo. This would mean giving black and white photos color or filling in blurry areas in a blurry picture. This would allow people to treasure photos for longer periods of time without having to risk losing important memories or moments.</h5>
   </div>
     </div>
