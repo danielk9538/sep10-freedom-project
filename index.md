@@ -22,7 +22,7 @@ my_number: 5
   <div class="row align-items-start">
     <div class="col-lg-4 col-md-6 col-sm-12">
       <div class="card" style="width: 20rem;">
-        <img src="assets/img/camera1.png" alt="Camera" class="card-img-top" style="max-height: 18rem;">
+        <img src="assets/img/camera2.png" alt="Camera" class="card-img-top" style="max-height: 18rem;">
         <div class="card-body">
         <h5 class="card-title">CAMERA</h5>
           <p class="card-text"> A camera is an optical instrument that can capture an image.A camera is an optical instrument that can capture an image.</p><br>
