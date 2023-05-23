@@ -62,7 +62,7 @@ my_number: 5
         <h5 class="card-title">GIMP</h5>
           <p class="card-text"> It can be used as a simple paint program, retouching program, an online batch processing system, a mass production image renderer, an image format converter, etc.</p>
           <h5>HOW DOES IT WORK</h5>
-          <p>A camera lens takes all the light rays bouncing around and uses glass to redirect them to a single point, creating a sharp image.</p>
+          <p>GIMP can be used a paint editor, photo retouching program, image renderer and an image renderer.</p>
         </div>
       </div>
     </div>
@@ -71,7 +71,7 @@ my_number: 5
         <img src="assets/img/photoshop.png" alt="Adobe Photoshop Icon" class="card-img-top" style="max-height: 18rem;">
         <div class="card-body">
         <h5 class="card-title">ADOBE PHOTOSHOP</h5>
-          <p class="card-text"> Photoshop is where editors crop photos, adjust photo composition, correct lighting, and make any subject imaginable look its absolute best.</p>
+          <p class="card-text"> Photoshop is a paid program where editors crop photos, adjust photo composition, correct lighting, and make any subject imaginable look its absolute best.</p>
           <h5>HOW DOES IT WORK</h5>
           <p>Photoshop uses a layer-based or mathematics systems that allows raster image creation or mathematical calcualations to scale an image including altering with multiple overlays.</p>
         </div>
